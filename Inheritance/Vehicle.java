@@ -1,5 +1,4 @@
 package com.FlynautSaaS.Inheritance;
-
 public abstract class Vehicle
 {
 	private String color;
